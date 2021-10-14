@@ -60,7 +60,8 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 - <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  [https://www.twitter.com/juanmgar](https://www.twitter.com/juanmgar)
 
 <p align="center">
-<img src="" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/92435273/137291721-c3bc1b4a-9da8-4f18-9b96-1af1c3dc0410.jpg" width="200" height="200">
+  
 
 
 
