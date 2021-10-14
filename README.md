@@ -63,12 +63,14 @@ Here, we love a good challenge and are looking forward to learning, stretching o
 <img src="" width="200" height="200">
 
 
-- Name surname `@SalmaElShafie` 
-- Prof
-- Interests
+
+- Name surname `Salma El-Shafie` ![Salma El-Shafie]
+
+- Teaching assistant of Genetics and Molecular Biology and recently steering towards bioinformatics research 
+- Interested in Transcriptomics, genomics of neurodegenerative disease, gene-environment interactions
 - <img src="https://img.icons8.com/office/24/000000/slack.png"/> `SalmaElShafie`
-- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> Link
-- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  Link
+- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [https://www.linkedin.com/in/salma-el-shafie-9b224570/]
+- <img src="https://img.icons8.com/color/24/000000/twitter.png"/>  [https://twitter.com/SalmaElShafie8]
 
 <p align="center">
 <img src="" width="200" height="200">
